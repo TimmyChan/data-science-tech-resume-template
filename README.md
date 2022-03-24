@@ -5,6 +5,8 @@ https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmp
 Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
 https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
 
+![cover](https://github.com/TimmyChan/data-science-tech-resume-template/blob/main/data_science_tech_resume_template1024_1.png?raw=true)
+
 ### Files:
 - resume.tex: Main file
 - _header.tex: header code
