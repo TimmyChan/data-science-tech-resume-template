@@ -2,8 +2,7 @@
 ## OFFICIAL PUBLIC OVERLEAF TEMPLATE
 https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
 
-Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them.
-Simply take the Overleaf output pdf, and print to pdf to remove "active contents" in the file.
+Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them. If such an issue arises, simply take the output pdf and print to another pdf, which would be the quickest way to remove "active contents" in the file.
 
 Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
 https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
