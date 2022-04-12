@@ -23,5 +23,8 @@ https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template
 ### Editor:
 https://github.com/TimmyChan 
 https://www.linkedin.com/in/timmy-l-chan/
+#### Contributors: 
+https://github.com/xiazeyu
+https://github.com/iamgmujtaba
                
-### Last Updated: March 24th, 2022
+### Last Updated: April 11th, 2022
