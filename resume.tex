@@ -1,4 +1,4 @@
-\documentclass[letter,10pt]{article}
+\documentclass[10pt]{article}
 \usepackage[utf8]{inputenc}
 
 %====================
@@ -43,7 +43,7 @@
 \def\portfolioname{MathtoData.com}
 
 \input{_header}
-\begin{document}\pagestyle{first_page}
+\begin{document}\pagestyle{others}\thispagestyle{first_page}
 
 \input{sections/objective}
 
@@ -53,11 +53,11 @@
 \section{Technical Experience}
 \input{sections/experience}
 
+% make a newpage wherever it is a clean break
+% \newpage\pagestyle{others}
+
 \section{Education}
 \input{sections/education}
-
-% make a newpage wherever it is a clean break
-\newpage\pagestyle{others}
 
 \section{Activities}
 \input{sections/activities}
