@@ -28,6 +28,9 @@
 
 
 \usepackage{TLCresume}
+%\pagestyle{fancy}
+\thispagestyle{fancy} % Only for first page
+\pagestyle{plain} 
 
 %====================
 % CONTACT INFORMATION
@@ -40,8 +43,13 @@
 \def\github{TimmyChan} % github username
 \def\role{Data Scientist / Junior Developer} % JOB TITLE
 
+\thispagestyle{fancy} % Only for first page
+\pagestyle{plain}     % From second page onwards
+
 \input{_header}
 \begin{document}
+\thispagestyle{fancy}
+\pagestyle{plain}
 \input{sections/objective}
 
 \section{Skills}
