@@ -34,4 +34,5 @@ https://www.linkedin.com/in/timmy-l-chan/
 - https://github.com/iamgmujtaba
 - https://github.com/alejlatorre
 
-### Last Updated: Feb 24th, 2024
+### Last Updated: Oct 19th, 2025
+
