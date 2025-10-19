@@ -4,7 +4,9 @@
 
 https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
 
-Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them. If such an issue arises, simply take the output pdf and print to another pdf, which would be the quickest way to remove "active contents" in the file.
+Applicant tracking system (ATS), especially older ones, do not like PDFs that have links in them. If such an issue arises, simply take the output pdf and print to another pdf, which would be the quickest way to remove "active contents" in the file. 
+
+Update: *Note that for resumes, best practice is to keep the length to be one page; however, due to popular demand this template was updated to allow for multiple pages.*
 
 Resume template for data scientists, a complement to data-science-tech-cover-letter-template:
 https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
